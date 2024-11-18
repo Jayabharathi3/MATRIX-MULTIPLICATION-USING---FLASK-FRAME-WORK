@@ -124,7 +124,7 @@ Flask is a micro web framework written in Python. It is considered a microframew
 ![image](https://github.com/user-attachments/assets/e566e203-136a-4913-bd9d-ca82571de9ad)
 
 ### Output Page :
-![image](https://github.com/user-attachments/assets/0de90879-e5c5-472b-aa2f-4978144044f4)
+![image](https://github.com/user-attachments/assets/e2bf33bf-9387-4c08-9cfe-cf4a4fbb544b)
 
 
 ## Result:
